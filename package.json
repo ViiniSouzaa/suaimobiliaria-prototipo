@@ -2,7 +2,7 @@
   "name": "suailmobiliaria-prototipo",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://<SEU_USUARIO>.github.io/suailmobiliaria-prototipo",
+  "homepage": "https://viinisouzaa.github.io/suaimobiliaria-prototipo",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

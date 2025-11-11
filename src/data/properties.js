@@ -7,7 +7,7 @@ export const properties = [
     beds: 3,
     baths: 2,
     area: '120 m²',
-    image: '/assets/placeholder.jpg',
+    image: '/suaimobiliaria-prototipo/assets/placeholder.jpg',
     description: 'Apartamento amplo, com varanda. Próximo a comércio e transporte.'
   },
   {
@@ -18,7 +18,7 @@ export const properties = [
     beds: 4,
     baths: 3,
     area: '320 m²',
-    image: '/assets/placeholder.jpg',
+    image: '/suaimobiliaria-prototipo/assets/placeholder.jpg',
     description: 'Ótima casa para família, área de lazer completa.'
   },
   {
@@ -29,7 +29,7 @@ export const properties = [
     beds: 1,
     baths: 1,
     area: '45 m²',
-    image: '/assets/placeholder.jpg',
+    image: '/suaimobiliaria-prototipo/assets/placeholder.jpg',
     description: 'Perfeito para quem busca praticidade e proximidade com universidades.'
   }
 ]
